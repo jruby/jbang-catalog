@@ -5,7 +5,7 @@
       "description":  "Run a Ruby command line with JRuby"
     },
     "run9.2": {
-      "script-ref":   "org.jruby:jruby-complete:9.2.19.0",
+      "script-ref":   "org.jruby:jruby-complete:9.2.20.0",
       "description":  "Run a Ruby command line with JRuby 9.2"
     }
   }
