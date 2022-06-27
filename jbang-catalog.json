@@ -1,11 +1,11 @@
 {
   "aliases": {
     "run": {
-      "script-ref":   "org.jruby:jruby-complete:9.3.4.0",
+      "script-ref":   "org.jruby:jruby-complete:9.3.6.0",
       "description":  "Run a Ruby command line with JRuby"
     },
     "run9.2": {
-      "script-ref":   "org.jruby:jruby-complete:9.2.20.1",
+      "script-ref":   "org.jruby:jruby-complete:9.2.21.0",
       "description":  "Run a Ruby command line with JRuby 9.2"
     }
   }
